@@ -22,13 +22,13 @@ I am a motivated Information Technology student with a strong foundation in **AI
 
 ## 📂 Repository Structure
 - **projects/**: Major projects demonstrating practical applications of IT and AI concepts.  
-- **assignments/**: Coursework assignments showcasing problem-solving and technical skills.  
+- **assignments/**: Coursework assignments showcasing applied programming concepts including OOP, problem-solving, and technical skills.  
 - **docs/**: Additional documentation and resources.  
 
 ---
 
 ## 🌟 Highlights
-- Strong foundation in **AI and intelligent systems**  
+- Strong foundation in **Python, AI, and intelligent systems**  
 - Interdisciplinary perspective combining **science, healthcare, and technology**  
 - Hands-on experience with **healthcare analytics and digital platforms**  
 
@@ -45,7 +45,7 @@ Each project and assignment includes its own README with:
 
 ## 📫 Contact
 - **LinkedIn**: [linkedin.com/in/moazshaikh](https://linkedin.com/in/moazshaikh)  
-- **Email**: moazshaikh@example.com  
+- **Email**: moazshaikh98@gmail.com  
 
 ---
 
