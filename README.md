@@ -44,12 +44,12 @@ Each project and assignment includes its own README with:
 ---
 
 ## 📫 Contact
-- **LinkedIn**: [linkedin.com/in/moazshaikh](https://linkedin.com/in/moazshaikh)  
+- **LinkedIn**: [https://www.linkedin.com/in/moaz-shaikh-301706167/]
 - **Email**: moazshaikh98@gmail.com  
 
 ---
 
-> *“My goal is to contribute meaningfully to the future of artificial intelligence—whether through smarter healthcare applications, intuitive software systems, or transformative user experiences.”*
+> *“My goal is to contribute meaningfully to the future of artificial intelligence—whether through integrated applications, intuitive software systems, or transformative user experiences.”*
 
 ---
 
