@@ -1,0 +1,51 @@
+AL; Alabama; Montgomery; 4447100 
+AK; Alaska; Juneau;  626932  
+AZ; Arizona;  Phoenix; 5130632        
+AR; Arkansas; Little Rock; 2673400 
+CA; California;  Sacramento; 33871648 
+CO; Colorado;   Denver;  4301261 
+CT; Connecticut;  Hartford; 3405565 
+DE; Delaware; Dover;  783600    
+DC; District of Columbia;  Washington; 572059  
+FL; Florida;    Tallahassee; 15982378  
+GA; Georgia; Atlanta; 8186453
+HI; Hawaii;  Honolulu;	211537
+ID; Idaho;  Boise; 1293953	
+IL; Illinois; Springfield; 12419293	
+IN; Indiana; Indianapolis; 6080485	
+IA; Iowa; Des Moines; 2926324	
+KS; Kansas; Topeka; 2688418	
+KY; Kentucky;  Frankfort; 4041769
+LA; Louisiana; Baton Rouge; 4468976
+ME; Maine; Augusta; 1274923
+MD; Maryland; Annapolis; 5296486
+MA; Massachusetts; Boston; 6349097	
+MI; Michigan; Lansing;  9938444	
+MN; Minnesota; Saint Paul; 4919479	
+MS; Mississippi; Jackson;  2844658	
+MO; Missouri; Jefferson City; 5595211
+MT; Montana;  Helena; 902195	
+NE; Nebraska; Lincoln; 1711263	
+NV; Nevada; Carson City; 1998257	
+NH; New Hampshire; Concord; 1235786	
+NJ; New Jersey; Trenton;  8414350	
+NM; New Mexico; Santa Fe; 1819046	
+NY; New York; Albany;  18976457	
+NC; North Carolina; Raleigh;  8049313	
+ND; North Dakota; Bismarck;  642200		
+OH; Ohio; Columbus;  11353140	
+OK; Oklahoma;  Oklahoma City;  3450654	
+OR; Oregon; Salem;  3421399
+PA; Pennsylvania; Harrisburg; 12281054	
+RI; Rhode Island; Providence;  1048319
+SC; South Carolina; Columbia; 4012012	
+SD; South Dakota; Pierre;    754844	
+TN; Tennessee; Nashville;   5689283	
+TX; Texas; Austin;     20851820	
+UT; Utah; Salt Lake City; 2233169	
+VT; Vermont; Montpelier;  608827		
+VA; Virginia; Richmond;  7078515	
+WA; Washington; Olympia;  5894121	
+WV; West Virginia; Charleston;  1808344	
+WI; Wisconsin; Madison;  5363675	
+WY; Wyoming; Cheyenne;  493782	
